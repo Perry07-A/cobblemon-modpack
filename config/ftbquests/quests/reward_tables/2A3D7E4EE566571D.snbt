@@ -1,0 +1,13 @@
+{
+	hide_tooltip: true
+	id: "2A3D7E4EE566571D"
+	loot_size: 1
+	order_index: 78
+	rewards: [{
+		id: "25C9B167D8119A5C"
+		tags: ["style_none"]
+		type: "xp"
+		weight: 60.0f
+		xp: 1
+	}]
+}

@@ -1,0 +1,98 @@
+{
+	id: "694D16F22D93CFBD"
+	loot_size: 1
+	order_index: 74
+	rewards: [
+		{
+			id: "62A5039F3A9234CF"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:booster_pack"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "1AED0740B464665B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:lootbag_gymkey"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 20.0f
+		}
+		{
+			id: "59BD22A86AB43632"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:strong_shiny_incense"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 15.0f
+		}
+		{
+			id: "40BF2F06608F41F8"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:uber_shiny_incense"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "1C2D38C899654119"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:safari_ticket"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "7382DB096DF8F2C6"
+			item: {
+				count: 1
+				id: "cobblemon:ability_capsule"
+			}
+			weight: 8.0f
+		}
+		{
+			id: "65F754A900E0AEE3"
+			item: {
+				count: 1
+				id: "cobblemon:ability_patch"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "46A635F0997B02F5"
+			item: {
+				count: 1
+				id: "cobblemon_utility:woodencap"
+			}
+			weight: 9.0f
+		}
+		{ id: "7FD15A5A8BDD7BF2", item: { count: 1, id: "cobblemon_utility:shinycard" } }
+		{
+			id: "03F1096766EA50FB"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:lootbag_hats"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 20.0f
+		}
+	]
+}

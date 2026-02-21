@@ -1,0 +1,79 @@
+{
+	id: "12A28FDAB7130DE9"
+	loot_size: 1
+	order_index: 66
+	rewards: [
+		{
+			count: 12
+			id: "353E97A82BCC8202"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_kebia_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "26880CDF93F79065"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_aspear_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "04A4D117A586979F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_babiri_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "1EB05971BBB8970E"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_tanga_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "72E95672DD16A22C"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_wepear_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "204D4773DB559EDD"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_rindo_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+	]
+}

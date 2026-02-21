@@ -1,0 +1,17 @@
+{
+	id: "7B4B754D4D631740"
+	loot_size: 1
+	order_index: 152
+	rewards: [{
+		command: "/cobbledollars give @p 25000"
+		icon: {
+			components: {
+				"ftbquests:icon": "cobbledollars:textures/gui/shop/amount_arrow_up.png"
+			}
+			id: "ftbquests:custom_icon"
+		}
+		id: "2643CE5A11602AE7"
+		type: "command"
+	}]
+	use_title: true
+}

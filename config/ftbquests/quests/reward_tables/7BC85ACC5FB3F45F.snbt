@@ -1,0 +1,71 @@
+{
+	id: "7BC85ACC5FB3F45F"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{
+			count: 8
+			id: "40533ABE233E50E6"
+			item: {
+				count: 1
+				id: "cobblemon:net_ball"
+			}
+		}
+		{
+			count: 8
+			id: "4952B6F99D185BA6"
+			item: {
+				count: 1
+				id: "cobblemon:dive_ball"
+			}
+		}
+		{
+			count: 8
+			id: "78421C1405750AAF"
+			item: {
+				count: 1
+				id: "cobblemon:nest_ball"
+			}
+		}
+		{
+			count: 8
+			id: "030B08175C8C9151"
+			item: {
+				count: 1
+				id: "cobblemon:repeat_ball"
+			}
+		}
+		{
+			count: 8
+			id: "5ABAA282C169481F"
+			item: {
+				count: 1
+				id: "cobblemon:timer_ball"
+			}
+		}
+		{
+			count: 8
+			id: "50C19AD2F50EFFE5"
+			item: {
+				count: 1
+				id: "cobblemon:dusk_ball"
+			}
+		}
+		{
+			count: 8
+			id: "73409BE353C571C8"
+			item: {
+				count: 1
+				id: "cobblemon:quick_ball"
+			}
+		}
+		{
+			count: 8
+			id: "2561CCEED9CDBC2D"
+			item: {
+				count: 1
+				id: "cobblemon:dream_ball"
+			}
+		}
+	]
+}

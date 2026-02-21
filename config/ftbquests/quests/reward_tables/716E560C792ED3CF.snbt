@@ -1,0 +1,30 @@
+{
+	id: "716E560C792ED3CF"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{
+			id: "2B30BD062C4FB6DE"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:safari_ticket"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 7.0f
+		}
+		{
+			id: "11B69FB433E50705"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:safari_ticket"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 2.0f
+		}
+		{ id: "5DA47C56BB1A0696", item: { components: { "ftbquests:missing_item": "academy:safari_ticket" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

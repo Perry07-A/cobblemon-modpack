@@ -1,0 +1,25 @@
+{
+	id: "763136B9394B5FFC"
+	loot_size: 1
+	order_index: 150
+	rewards: [
+		{ id: "27E6EBB62CFCACC0", item: { components: { "ftbquests:missing_item": "mega_showdown:buginium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "0CE742276A35B48E", item: { components: { "ftbquests:missing_item": "mega_showdown:darkinium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5AD70D5B78DCFEA2", item: { components: { "ftbquests:missing_item": "mega_showdown:dragonium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "1F7A34526DDD9391", item: { components: { "ftbquests:missing_item": "mega_showdown:electrium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3589E45A33AD2712", item: { components: { "ftbquests:missing_item": "mega_showdown:fairium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "68615662D258E51B", item: { components: { "ftbquests:missing_item": "mega_showdown:fightinium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "38F52ADF4442AF89", item: { components: { "ftbquests:missing_item": "mega_showdown:firium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "1B542D75E041F276", item: { components: { "ftbquests:missing_item": "mega_showdown:flyinium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "072D97A2F0D09FBC", item: { components: { "ftbquests:missing_item": "mega_showdown:ghostium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "031CC5C93F60B506", item: { components: { "ftbquests:missing_item": "mega_showdown:grassium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2B3DFFA2C7929142", item: { components: { "ftbquests:missing_item": "mega_showdown:groundium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "625D170D42BE3346", item: { components: { "ftbquests:missing_item": "mega_showdown:icium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "77527ACDF82F4EE8", item: { components: { "ftbquests:missing_item": "mega_showdown:normalium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "540934AE7220FDBC", item: { components: { "ftbquests:missing_item": "mega_showdown:poisonium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "250DAE89D164DD97", item: { components: { "ftbquests:missing_item": "mega_showdown:psychium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2AD30730533D41D5", item: { components: { "ftbquests:missing_item": "mega_showdown:rockium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "053C2C54475E55CB", item: { components: { "ftbquests:missing_item": "mega_showdown:steelium-z" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3A910FF3E11F4185", item: { components: { "ftbquests:missing_item": "mega_showdown:waterium-z" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

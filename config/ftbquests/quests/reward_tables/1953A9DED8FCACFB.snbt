@@ -1,0 +1,18 @@
+{
+	id: "1953A9DED8FCACFB"
+	loot_size: 1
+	order_index: 100
+	rewards: [{
+		auto: "disabled"
+		command: "/rctmod player get level_cap @s"
+		exclude_from_claim_all: true
+		feedback_message: "Level Cap"
+		icon: {
+			id: "rctmod:trainer_card"
+		}
+		id: "45B4092299448252"
+		permission_level: 2
+		silent: true
+		type: "command"
+	}]
+}

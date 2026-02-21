@@ -1,0 +1,10 @@
+{
+	id: "70DE8427138F48A6"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ id: "5ADB9E6C59B59B7A", item: { components: { "ftbquests:missing_item": "artifacts:anglers_hat" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "57DFD6B8512A4DF4", item: { components: { "ftbquests:missing_item": "artifacts:snorkel" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "20CA713B69E31F69", item: { components: { "ftbquests:missing_item": "artifacts:onion_ring" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

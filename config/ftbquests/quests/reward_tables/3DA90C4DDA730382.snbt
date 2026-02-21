@@ -1,0 +1,15 @@
+{
+	id: "3DA90C4DDA730382"
+	loot_size: 1
+	order_index: 49
+	rewards: [
+		{ id: "0B4A29114773BA86", item: { components: { "ftbquests:missing_item": "improvableskills:scroll_normal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "143F8A8AB1BF4363", item: { components: { "ftbquests:missing_item": "improvableskills:scroll_normal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2AA1B12E252AFD99", item: { components: { "ftbquests:missing_item": "improvableskills:scroll_normal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "0D4C42AC010A8723", item: { components: { "ftbquests:missing_item": "improvableskills:scroll_normal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "43013114A24DBC23", item: { components: { "ftbquests:missing_item": "improvableskills:scroll_normal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "57BCE5C6EE33B1A8", item: { components: { "ftbquests:missing_item": "improvableskills:scroll_normal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3DE816E371FA6922", item: { components: { "ftbquests:missing_item": "improvableskills:scroll_normal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2155DCAAC1B3ED14", item: { components: { "ftbquests:missing_item": "improvableskills:scroll_normal" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

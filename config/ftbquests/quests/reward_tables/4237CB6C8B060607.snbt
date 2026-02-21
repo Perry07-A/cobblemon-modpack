@@ -1,0 +1,46 @@
+{
+	id: "4237CB6C8B060607"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{
+			count: 6
+			id: "54C0DC73787CE276"
+			item: {
+				count: 1
+				id: "pokeblocks:poke_coin"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 6
+			id: "3F3FBB8CF66EC5C5"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin"
+			}
+			weight: 1.5f
+		}
+		{
+			count: 6
+			id: "4C870B1938ADE8AE"
+			item: {
+				components: {
+					"ftbquests:missing_item": "eternal_starlight:starlight_silver_coin"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 6
+			id: "1C336901C631B340"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			weight: 2.0f
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,57 @@
+{
+	id: "4F2AC0467B94E0BC"
+	loot_crate: {
+		color: 4078847
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "Sleeping Box"
+		string_id: "sleeping_box"
+	}
+	loot_size: 1
+	order_index: 24
+	rewards: [
+		{
+			command: "/pokespawn snorlax level=20 nickname=Gob"
+			icon: {
+				components: {
+					"ftbquests:missing_item": "supplementaries:flute"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "5625616F0285811A"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			command: "/pokespawn snorlax level=20 nickname=Snee"
+			icon: {
+				components: {
+					"ftbquests:missing_item": "supplementaries:flute"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "7721ADEB1A7DEE8A"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+		{
+			command: "/pokespawn snorlax level=25 shiny nickname=Mimi"
+			icon: {
+				components: {
+					"ftbquests:missing_item": "supplementaries:flute"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "4B9C08287B1AA87E"
+			permission_level: 2
+			silent: true
+			type: "command"
+		}
+	]
+}

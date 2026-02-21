@@ -1,0 +1,63 @@
+{
+	id: "27CF23D5A79FF0E7"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			count: 8
+			id: "50446CCD43025ED8"
+			item: {
+				count: 1
+				id: "cobblemon:fast_ball"
+			}
+		}
+		{
+			count: 8
+			id: "22B2D18F1170EB0F"
+			item: {
+				count: 1
+				id: "cobblemon:level_ball"
+			}
+		}
+		{
+			count: 8
+			id: "3B1771AAC8DD3730"
+			item: {
+				count: 1
+				id: "cobblemon:lure_ball"
+			}
+		}
+		{
+			count: 8
+			id: "3FBAE7ED8B38D1E3"
+			item: {
+				count: 1
+				id: "cobblemon:heavy_ball"
+			}
+		}
+		{
+			count: 8
+			id: "56B5B35FE1D3E413"
+			item: {
+				count: 1
+				id: "cobblemon:love_ball"
+			}
+		}
+		{
+			count: 8
+			id: "4F6C98CF465EB309"
+			item: {
+				count: 1
+				id: "cobblemon:friend_ball"
+			}
+		}
+		{
+			count: 8
+			id: "7B560242E752DC88"
+			item: {
+				count: 1
+				id: "cobblemon:moon_ball"
+			}
+		}
+	]
+}
