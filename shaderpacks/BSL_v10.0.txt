@@ -1,8 +1,0 @@
-#Fri Dec 19 16:01:56 CET 2025
-AO=false
-LIGHT_SHAFT=false
-SHADOW_COLOR=false
-SHADOW_FILTER=false
-TAA=false
-shadowDistance=128.0
-shadowMapResolution=1024

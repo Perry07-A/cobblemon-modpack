@@ -1,7 +1,0 @@
-#Tue Dec 23 21:03:19 CET 2025
-AO=false
-LIGHT_SHAFT=false
-SHADOW_COLOR=false
-TAA=false
-shadowDistance=128.0
-shadowMapResolution=512
