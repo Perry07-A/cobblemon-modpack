@@ -1,0 +1,13 @@
+name = "Tick Tweaks"
+filename = "ticktweaks-fabric-1.2.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2d67N1yh/versions/cK8wYaUt/ticktweaks-fabric-1.2.5.jar"
+hash-format = "sha512"
+hash = "8c4b19294fb69a10094f0a70ccd498e4322d5953bbb7917f5b06692790813ee974be20b13e5354e0fabe081069ba80320693eba5b4d23ae533f484c6158cb67c"
+
+[update]
+[update.modrinth]
+mod-id = "2d67N1yh"
+version = "cK8wYaUt"

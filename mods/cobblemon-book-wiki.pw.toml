@@ -1,0 +1,13 @@
+name = "Cobblemon Book Wiki"
+filename = "cobblemon-book-wiki-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/C6BG1xXK/versions/JAc7Vr24/cobblemon-book-wiki-1.2.0.jar"
+hash-format = "sha512"
+hash = "8cf9eb5e928a950591daccd24f6741c7590b1ea3e3ad256e6969b308a927c9f4d218c215be45c2e90519f356c85867df2d0ec36289c08ebfdf2ef84647b32a3e"
+
+[update]
+[update.modrinth]
+mod-id = "C6BG1xXK"
+version = "JAc7Vr24"

@@ -1,0 +1,13 @@
+name = "Structure Credits"
+filename = "structurecredits-1.21.1-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9VEHG3zg/versions/UAsGx4S8/structurecredits-1.21.1-3.0.jar"
+hash-format = "sha512"
+hash = "815ec6981ec988a9ace08e21c74ff937473cc0fd7362cf08b76ce7c51894b4ae5f0bd2bbe2073844ddf95adca36b70c0dde989180ce5f54371cce39e8ec4d462"
+
+[update]
+[update.modrinth]
+mod-id = "9VEHG3zg"
+version = "UAsGx4S8"

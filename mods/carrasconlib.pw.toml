@@ -1,0 +1,13 @@
+name = "#CarrasconLib"
+filename = "carrasconlib-fabric-1.21.1-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QpsOhpBa/versions/upht9oLy/carrasconlib-fabric-1.21.1-0.1.jar"
+hash-format = "sha512"
+hash = "88b83e8dbf17febc22a73e4ea2a8431f5a7d377103b3b67f14a5a0aa560d49e138c54c59ae4dd7b4c379fd369c87e0082198abbca43946083f6f26ad770a80c3"
+
+[update]
+[update.modrinth]
+mod-id = "QpsOhpBa"
+version = "upht9oLy"

@@ -1,0 +1,13 @@
+name = "Wiki Cobblemon"
+filename = "TropiWiki-1.4.0b.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jInKP2Pu/versions/5ya2NhVC/TropiWiki-1.4.0b.jar"
+hash-format = "sha512"
+hash = "e4009c8b5726c68af763387e633f3c13a69ffbff3d76dbc81339396511dbfacca2e460555cabbcd768ade6dc0122aef004645d46fbe9842dddfbe2425acbaa5b"
+
+[update]
+[update.modrinth]
+mod-id = "jInKP2Pu"
+version = "5ya2NhVC"

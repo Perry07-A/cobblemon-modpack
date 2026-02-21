@@ -1,0 +1,13 @@
+name = "Load Support"
+filename = "loadsupport-fabric-1.21.1-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bnO15g6H/versions/6kSQdYn5/loadsupport-fabric-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "2ef10128aa6640c029770cf44bb8b671ab4a14d8fd8feed2a4c5a8d876cf416fa281f0e24e7cda0b10ad2b9fa62c7c1a7197ad18a20affc9096aea6fb95b0e56"
+
+[update]
+[update.modrinth]
+mod-id = "bnO15g6H"
+version = "6kSQdYn5"

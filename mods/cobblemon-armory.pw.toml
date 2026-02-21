@@ -1,0 +1,13 @@
+name = "Cobblemon: Armory"
+filename = "cobblemonarmory-1.4.4-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2GSJkNsi/versions/FzsQN27k/cobblemonarmory-1.4.4-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "2eb69d85206f3d883612ab70e3cb532547ea240304793ed51ed2ec02e72bfc9aea83eaf89719598b12387a2ee6ae1ec85323bbf6bac093d08b4b8c80b2177edb"
+
+[update]
+[update.modrinth]
+mod-id = "2GSJkNsi"
+version = "FzsQN27k"

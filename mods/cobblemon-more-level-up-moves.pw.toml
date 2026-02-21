@@ -1,0 +1,13 @@
+name = "Cobblemon More Level Up Moves"
+filename = "Cobblemon MLUM 20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LcFlXgq6/versions/9e87LkGN/Cobblemon%20MLUM%2020.1.jar"
+hash-format = "sha512"
+hash = "1c6a11727cbeefb8941da06d9de1fcf9e6d22a466eb862aca2ca5d8e16360d6d95a31b71f1147b4d8d8ce3468afd9ae84652a65e78ec46ec1584e7b2df9033d0"
+
+[update]
+[update.modrinth]
+mod-id = "LcFlXgq6"
+version = "9e87LkGN"

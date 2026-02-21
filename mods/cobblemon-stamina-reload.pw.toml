@@ -1,0 +1,13 @@
+name = "Cobblemon: Stamina Reload"
+filename = "berbers-stamina-tweaks-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9C9Wp8Rw/versions/vjtbxo95/berbers-stamina-tweaks-1.1.jar"
+hash-format = "sha512"
+hash = "c999be0996c07a785fdf3f0bd4b4cd877beea56dd928051a554b4b3eb85f2659c843984c44c2d209ef67e7938e3d5fcd21fc7175e093c1488a40c9db505bcc04"
+
+[update]
+[update.modrinth]
+mod-id = "9C9Wp8Rw"
+version = "vjtbxo95"

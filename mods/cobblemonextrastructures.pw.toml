@@ -1,0 +1,13 @@
+name = "Cobblemon: Extra Structures"
+filename = "cobblemonextrastructures-1.21.1-1.2.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IkJ2gbjT/versions/NBq9kZbh/cobblemonextrastructures-1.21.1-1.2.0-fabric.jar"
+hash-format = "sha512"
+hash = "d62b775107e640804a15f12d2134d5ad564e793178a9a65b6360c93b9b78441b1c41a682d8190ce278c7e0935cabe2535d2db2871f0861a08e26de074a471087"
+
+[update]
+[update.modrinth]
+mod-id = "IkJ2gbjT"
+version = "NBq9kZbh"
