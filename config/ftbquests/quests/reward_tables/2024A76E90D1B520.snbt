@@ -1,0 +1,344 @@
+{
+	id: "2024A76E90D1B520"
+	loot_size: 1
+	order_index: 35
+	rewards: [
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "163CBC6948493442"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:everlasting_beef"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "00F91B186B73B877"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:eternal_steak"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "enabled"
+			exclude_from_claim_all: true
+			id: "09DA0EACA5F13693"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:night_vision_goggles"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "0239D0B5BEED8627"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:villager_hat"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "0FCC13D3387F6158"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:superstitious_hat"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "7698C5B0F96FE2C7"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:anglers_hat"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "49FDB178EABAE96A"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:lucky_scarf"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "5FDC24EB19A9C5B3"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:cloud_in_a_bottle"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "46E95A62F432F3D4"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:crystal_heart"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "609F2F8F1F91D475"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:warp_drive"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "2E67BDA660124BD8"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:vampiric_glove"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "2D54BD947A994FD8"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:power_glove"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "37DB9463B1F2D36B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:golden_hook"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "5258C50E65E83EF0"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:aqua_dashers"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "1B886590238F425E"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:strider_shoes"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "5E9A3DF21B5F0D92"
+			item: {
+				components: {
+					"ftbquests:missing_item": "artifacts:mimic_spawn_egg"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "5F89C26FAD0F85F5"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:wooden_stick"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "2E23522D8E8E032A"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:broken_ankh"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "694E2D989D0D14C4"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:speed_force"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "1AB7216FBA5A8F2B"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:reforger"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "285B638B715D2530"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:mysterious_trinket"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "6EE609FB89B8D9E9"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:fragile_cloud"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "0B5A5819D4875014"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:dark_nelumbo"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "445114AD6AE22E3F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:nelumbo"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "309BF9964225970D"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:four_leaf_clover"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "3BEF89F612ECE785"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:vampire_blood"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "2AD99E614E23A704"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:ghast_eye"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			exclude_from_claim_all: true
+			id: "7A9EAD02E65177DE"
+			item: {
+				components: {
+					"ftbquests:missing_item": "nameless_trinkets:sigil_of_baphomet"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+	]
+	use_title: true
+}

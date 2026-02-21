@@ -1,0 +1,31 @@
+{
+	id: "68C9ACB10B64272F"
+	loot_size: 1
+	order_index: 71
+	rewards: [
+		{
+			count: 12
+			id: "030AE77AB41BA594"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_pecha_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "32265BC5EFF45B36"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_nanab_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+	]
+}

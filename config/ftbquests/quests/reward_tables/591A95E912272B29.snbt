@@ -1,0 +1,16 @@
+{
+	id: "591A95E912272B29"
+	loot_size: 1
+	order_index: 44
+	rewards: [
+		{
+			count: 10
+			id: "619CC050BBA2EB47"
+			item: {
+				count: 1
+				id: "mega_showdown:zygarde_cell"
+			}
+		}
+		{ id: "373E9FB9BA826416", item: { count: 1, id: "mega_showdown:zygarde_core" } }
+	]
+}

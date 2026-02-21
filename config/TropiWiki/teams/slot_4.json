@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "teamName": "My Team",
+  "slots": [
+    {
+      "position": 1,
+      "level": 50,
+      "formId": "",
+      "happiness": 0,
+      "shiny": false,
+      "gender": "",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moves": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "position": 2,
+      "level": 50,
+      "formId": "",
+      "happiness": 0,
+      "shiny": false,
+      "gender": "",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moves": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "position": 3,
+      "level": 50,
+      "formId": "",
+      "happiness": 0,
+      "shiny": false,
+      "gender": "",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moves": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "position": 4,
+      "level": 50,
+      "formId": "",
+      "happiness": 0,
+      "shiny": false,
+      "gender": "",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moves": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "position": 5,
+      "level": 50,
+      "formId": "",
+      "happiness": 0,
+      "shiny": false,
+      "gender": "",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moves": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "position": 6,
+      "level": 50,
+      "formId": "",
+      "happiness": 0,
+      "shiny": false,
+      "gender": "",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "moves": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "metadata": {
+    "createdAt": 1768744455815,
+    "updatedAt": 1768744455815,
+    "author": ""
+  }
+}

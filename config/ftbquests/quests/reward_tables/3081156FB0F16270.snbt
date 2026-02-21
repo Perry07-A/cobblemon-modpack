@@ -1,0 +1,14 @@
+{
+	id: "3081156FB0F16270"
+	loot_size: 1
+	order_index: 26
+	rewards: [
+		{ id: "33DCAA8C5CFEE9B5", item: { components: { "ftbquests:missing_item": "mermod:mermaid_bra_modifier" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "61DB9C13C937D97D", item: { components: { "ftbquests:missing_item": "mermod:glowing_pearl_modifier" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2D18250EB8C816C5", item: { components: { "ftbquests:missing_item": "mermod:moon_rock_modifier" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "1CE9BFFF3386953A", item: { components: { "ftbquests:missing_item": "mermod:ursula_shell_modifier" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3248C6C88E990DA4", item: { components: { "ftbquests:missing_item": "mermod:tail_gradient_modifier" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "4BAD0F3DCFE70924", item: { components: { "ftbquests:missing_item": "mermod:deep_sea_crystal_modifier" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "67DA5B5AA489C792", item: { components: { "ftbquests:missing_item": "mermod:tail_moisturizer_modifier" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

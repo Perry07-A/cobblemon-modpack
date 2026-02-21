@@ -1,0 +1,9 @@
+{
+	id: "6094D6D19A92AD9B"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{ id: "635B41C2C6242DD7", item: { components: { "ftbquests:missing_item": "academy:safari_ticket" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "67EF447B0A02D274", item: { components: { "ftbquests:missing_item": "academy:safari_ticket" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

@@ -1,0 +1,10 @@
+#Sat Feb 21 01:11:48 CET 2026
+AO=false
+BLOOM_RADIUS=1
+DYNAMIC_HANDLIGHT=0
+LIGHT_SHAFT=false
+SHADOW_COLOR=false
+SHADOW_FILTER=false
+TAA=false
+shadowDistance=128.0
+shadowMapResolution=1024

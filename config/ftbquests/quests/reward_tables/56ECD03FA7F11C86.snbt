@@ -1,0 +1,54 @@
+{
+	icon: {
+		components: {
+			"ftbquests:missing_item": "mythicmetals:hallowed_ingot"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "56ECD03FA7F11C86"
+	loot_size: 1
+	order_index: 50
+	rewards: [
+		{
+			auto: "disabled"
+			count: 4
+			exclude_from_claim_all: true
+			id: "5B44778945546623"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mythicmetals:orichalcum_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			count: 3
+			exclude_from_claim_all: true
+			id: "7017D3474D2729C9"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mythicmetals:mythril_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			auto: "disabled"
+			count: 2
+			exclude_from_claim_all: true
+			id: "76BC85D5EE74F090"
+			item: {
+				components: {
+					"ftbquests:missing_item": "mythicmetals:adamantite_ingot"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{ id: "6A8ECF4C167171BB", item: { components: { "ftbquests:missing_item": "mythicmetals:hallowed_ingot" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+	use_title: true
+}

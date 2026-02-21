@@ -1,0 +1,103 @@
+{
+	id: "5024192FF1C51BEF"
+	loot_size: 1
+	order_index: 69
+	rewards: [
+		{
+			count: 12
+			id: "10958B0761F564D7"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_haban_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "2E0C020818B9F1E2"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_colbur_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "3321BE021883A75F"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_cheri_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "5C086995FE00E296"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_chople_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "3DA0C05E8E0117BC"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_payapa_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "646E4260D89E2478"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_occa_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "1F1110D9A84FB209"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_persim_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+		{
+			count: 12
+			id: "17B7FBEEB356B295"
+			item: {
+				components: {
+					"ftbquests:missing_item": "academy:roasted_kasib_berry"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			tags: ["style_none"]
+		}
+	]
+}

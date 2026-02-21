@@ -1,0 +1,12 @@
+{
+	id: "5620473E957045AD"
+	loot_size: 1
+	order_index: 86
+	rewards: [{
+		id: "2D2BE3D984A62A51"
+		tags: ["style_none"]
+		type: "xp"
+		weight: 60.0f
+		xp: 8
+	}]
+}

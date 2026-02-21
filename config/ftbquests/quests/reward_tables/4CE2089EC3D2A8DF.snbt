@@ -1,0 +1,31 @@
+{
+	id: "4CE2089EC3D2A8DF"
+	loot_size: 1
+	order_index: 38
+	rewards: [
+		{
+			count: 3
+			id: "0035B9316B1972D2"
+			item: {
+				count: 1
+				id: "cobblemonraiddens:cheer_attack"
+			}
+		}
+		{
+			count: 3
+			id: "794BEB866ACCB033"
+			item: {
+				count: 1
+				id: "cobblemonraiddens:cheer_defense"
+			}
+		}
+		{
+			count: 3
+			id: "420EA93C666590DE"
+			item: {
+				count: 1
+				id: "cobblemonraiddens:cheer_heal"
+			}
+		}
+	]
+}
