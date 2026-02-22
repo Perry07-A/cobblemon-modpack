@@ -5,10 +5,6 @@ file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27d2a588a33e94aff8cea4ea6090509ab3e10640f980e63dfd317c6b0dcd30df"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "e4fe7177d07ca40366706b34855dbdb4a2fe9cad5cfc7c5224f993cc17c9e5a0"
-
-[[files]]
 file = "config/ExtraQuests/config.yml"
 hash = "cd60716a979e3f96d9c1fd1fa6fc6f91bf334054bd770cf8bbfff53b5e0b2f1e"
 
@@ -27,10 +23,6 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 [[files]]
 file = "config/RuOK.toml"
 hash = "e1b303fb740bdfd0b67e50678ae54871575d425dca2f744b1fbdfd197a6b11d0"
-
-[[files]]
-file = "config/SpawnController/blacklist.json"
-hash = "4a696b58a6f6bed74cb47556d59564f133fd34ebd727bba5723515b417ef5c66"
 
 [[files]]
 file = "config/TropiWiki/pokemon_encounters.json"
@@ -73,24 +65,12 @@ file = "config/VillagerConfig/villagerconfig.json5"
 hash = "5eff6162478691b82242f3574b7f2f5f008406c2ad330fdf4750860044d9f076"
 
 [[files]]
-file = "config/acceleratedrendering-client.toml"
-hash = "73cffe41a9a801c70b9adea277adcdf3862bf63a419a9b394018197c70a430a6"
-
-[[files]]
 file = "config/accessories.json5"
 hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
 
 [[files]]
 file = "config/accessories_compat.json5"
 hash = "49bc89a13e4c8b2e8485ea5c8dd4b66bd5f6e497e24cd4606b53c606623dfe79"
-
-[[files]]
-file = "config/achiopt-common.toml"
-hash = "e9247671f56b0e448914785063aef58cc1277f7a4b7b084334e06117efd8cd67"
-
-[[files]]
-file = "config/advancementplaques.toml"
-hash = "bfc3eae162bd8b3056a3adf5d67b639198c657b7c4782ed0aa522e89ff5d03f4"
 
 [[files]]
 file = "config/ali/ali_common.json"
@@ -107,18 +87,6 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/appleskin.json5"
 hash = "ab7f78056c199b438d556e3b3f431ed40313e32405fb1b287918f3117aca1191"
-
-[[files]]
-file = "config/async.toml"
-hash = "87d7e54a20f0a048b1a51169d21feecd8e99bc1fb1ea85636bce32aefd2bb427"
-
-[[files]]
-file = "config/asyncparticles/asyncparticles-mixin.properties"
-hash = "ad46726f3068eed3f95a9117e5f25cb9d8f3a834a776573e6f08468dcead2c51"
-
-[[files]]
-file = "config/asyncparticles/asyncparticles.json"
-hash = "293606fef32c8c5619ea281a8166f146ece0e2000f353aeb5d4b3a1028e29f56"
 
 [[files]]
 file = "config/audition.json"
@@ -171,14 +139,6 @@ hash = "ad0e43cd1d8fff16d76ff6036699bd67598ff8bc18220b7e8e951245c92cf139"
 [[files]]
 file = "config/betterchunkloading.json"
 hash = "5c77c279bb5b3f74ae8ecd8cace949ff87276f1a6753a0c5595721802b209c70"
-
-[[files]]
-file = "config/betterdays-client.toml"
-hash = "730b13a15e01a03825fc40477758799ed8801c783d9cf829867c43c1b08f7ad9"
-
-[[files]]
-file = "config/betterdays-common.toml"
-hash = "03e4858e141353192b4616f179003be4086cca2a4c22aa37872f610ac6285573"
 
 [[files]]
 file = "config/bettergrass.json"
@@ -12219,14 +12179,6 @@ hash = "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0"
 [[files]]
 file = "config/yosbr/config/balm-common.toml"
 hash = "2fbbc2792edc05ca4df6648bf4f2637502e9bc1942baa957abaace7882e70fef"
-
-[[files]]
-file = "config/yosbr/config/bebooks/config.properties"
-hash = "ad937ed0c42866e2afa35bbe41d87f3e0fb32bfe397001092908f14d9a2e3ebf"
-
-[[files]]
-file = "config/yosbr/config/bebooks/enchantment_data.json"
-hash = "050344e8e9f46726be412134f0f7888c8a20792009184e8b8118f9ac0e570199"
 
 [[files]]
 file = "config/yosbr/config/betteradvancements.json"
