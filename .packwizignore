@@ -37,7 +37,6 @@ patchouli_data.json
 mods/*.jar
 config/DistantHorizons.toml
 config/async.toml
-config/asyncparticles/
 config/betterdays-client.toml
 config/betterdays-common.toml
 config/acceleratedrendering-client.toml
@@ -45,3 +44,6 @@ config/achiopt-common.toml
 config/advancementplaques.toml
 config/SpawnController/
 config/bebooks/
+config/bhmenu/
+config/biome_replacer.properties
+config/cerulean-common.toml

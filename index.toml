@@ -89,6 +89,14 @@ file = "config/appleskin.json5"
 hash = "ab7f78056c199b438d556e3b3f431ed40313e32405fb1b287918f3117aca1191"
 
 [[files]]
+file = "config/asyncparticles/asyncparticles-mixin.properties"
+hash = "ad46726f3068eed3f95a9117e5f25cb9d8f3a834a776573e6f08468dcead2c51"
+
+[[files]]
+file = "config/asyncparticles/asyncparticles.json"
+hash = "293606fef32c8c5619ea281a8166f146ece0e2000f353aeb5d4b3a1028e29f56"
+
+[[files]]
 file = "config/audition.json"
 hash = "277f42223a9c5d015b4a4f2a3262839b8aa69c59500a20a07ff14d4f9e2b6eb8"
 
@@ -169,22 +177,6 @@ file = "config/betterthirdperson.json5"
 hash = "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb"
 
 [[files]]
-file = "config/bhmenu/bhmenu-general.properties"
-hash = "ae35585a8ac7f67fe6a04c01c3dafdf2020a1f460e669316263352c7f75d7377"
-
-[[files]]
-file = "config/bhmenu/bhmenu-public_server_list.properties"
-hash = "7714c50a041fbb36cbc6a58e23fde2192a40bf1a50eb947a8281ee01a44e12f1"
-
-[[files]]
-file = "config/bhmenu/bhmenu-server_creator_banner.properties"
-hash = "a07f86becd770f8a5822febcbe73d297842aa2b34d9709ba68b5d2c6de386265"
-
-[[files]]
-file = "config/biome_replacer.properties"
-hash = "a67afadff9534f2158d562800f1e17d40aa8f8c99e7ef3ab3c1001dfc218e4d3"
-
-[[files]]
 file = "config/biomeswevegone/misc.json"
 hash = "cbfac13949317e4e49f95e9cf16a7d9cb36d6d4b873eadf2329bae57bc3ff742"
 
@@ -223,10 +215,6 @@ hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 [[files]]
 file = "config/cerulean-client.toml"
 hash = "7c60bd4181287c189bfb246f5b37b572f58b639834ac8f88bba3249f921762f8"
-
-[[files]]
-file = "config/cerulean-common.toml"
-hash = "639766eaa937847ed1c2d44f4a3a3bf5038ca986e2773fb318fb2af3affc81c8"
 
 [[files]]
 file = "config/cerulean-server.toml"
@@ -12191,18 +12179,6 @@ hash = "b6ac6dcb805a7c126a17400ad2c66a6e582cfb6d9585c1ccac9f9d4cbf9e7c3b"
 [[files]]
 file = "config/yosbr/config/betterthirdperson.json5"
 hash = "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb"
-
-[[files]]
-file = "config/yosbr/config/bhmenu/bhmenu-general.properties"
-hash = "d1e95cdabe2285095c128f8c4ae7d014cfe4aaf9bc824dce93927da85023ecf0"
-
-[[files]]
-file = "config/yosbr/config/bhmenu/bhmenu-public_server_list.properties"
-hash = "23d0d578eae2844e70a39335645f46341770dfec6d27bc3d72c8f0d8e9351cec"
-
-[[files]]
-file = "config/yosbr/config/bhmenu/bhmenu-server_creator_banner.properties"
-hash = "c046d69730b8fcc4e5c3f8dbc111d8a294698e4d71acf28d4e6c003874da30b5"
 
 [[files]]
 file = "config/yosbr/config/bwncr.toml"
