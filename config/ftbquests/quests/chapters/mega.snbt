@@ -881,7 +881,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "4AFBE99DE57281BD"
-				item: { components: { "ftbquests:missing_item": "kubejs:shadow_mewtwonite_y" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "lost_lore:shadow_mewtwonite_y" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -905,7 +905,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "04DE9E9C2EA7A566"
-				item: { components: { "ftbquests:missing_item": "kubejs:shadow_mewtwonite_x" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "lost_lore:shadow_mewtwonite_x" }
 				type: "item"
 			}]
 			x: -1.5d

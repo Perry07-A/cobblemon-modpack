@@ -24,7 +24,7 @@
   "enableBattleLogChatMessages": true,
   "enableInstantWildRun": true,
   "enableTurnCounter": true,
-  "enablePokemonCount": false,
+  "enablePokemonCount": true,
   "hideOpponentPokeballTypes": false,
   "enableBButtonReenterBattle": true,
   "battleBackKey": 340,

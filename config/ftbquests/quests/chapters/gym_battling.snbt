@@ -5,7 +5,10 @@
 	filename: "gym_battling"
 	group: "373657F33DE2511A"
 	icon: {
-		id: "rad-gyms:gym_key"
+		components: {
+			"ftbquests:missing_item": "rad-gyms:gym_key"
+		}
+		id: "ftbquests:missing_item"
 	}
 	id: "7C0B29ABDBDD01B4"
 	images: [

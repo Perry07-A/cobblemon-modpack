@@ -34,7 +34,7 @@ hash = "4a696b58a6f6bed74cb47556d59564f133fd34ebd727bba5723515b417ef5c66"
 
 [[files]]
 file = "config/TropiWiki/pokemon_encounters.json"
-hash = "3dd2ee105f0f7560b6af0b99b7957386f260566866ba1faf02003eb0b4da3f8b"
+hash = "f591f0531dc97ad10e3df63b9dc753270702679b64d957b2bfd9523e3e91b59e"
 
 [[files]]
 file = "config/TropiWiki/settings.json"
@@ -151,14 +151,6 @@ hash = "55f7d96d30aec2f4b45436fe6e8788aa18840154072f81681d2dd797270b45c9"
 [[files]]
 file = "config/beautify.json"
 hash = "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab"
-
-[[files]]
-file = "config/bebooks/config.properties"
-hash = "ad937ed0c42866e2afa35bbe41d87f3e0fb32bfe397001092908f14d9a2e3ebf"
-
-[[files]]
-file = "config/bebooks/enchantment_data.json"
-hash = "050344e8e9f46726be412134f0f7888c8a20792009184e8b8118f9ac0e570199"
 
 [[files]]
 file = "config/betteradvancements.json"
@@ -334,7 +326,7 @@ hash = "6e3f0ed5aa64ae9843c1bb36c63f2122b726dc884d98f78d70dbbbde38c219f9"
 
 [[files]]
 file = "config/cobblemon-battle-extras.json"
-hash = "036cb0bc349ee9e2e92846a3900bfb58184abba98144e12611ea7a69f7fec212"
+hash = "316cc282ba0eb6dbd61c110739db2e499842a2c05281c9e98df904235b223f82"
 
 [[files]]
 file = "config/cobblemon_iwa.toml"
@@ -8986,7 +8978,7 @@ hash = "6b921f314291d32e816f814af07067e186775db7a56068de3ec7fd029e95e3fb"
 
 [[files]]
 file = "config/exordium.json"
-hash = "c6e327fcfc32eb3994d3affa85115c92b9e43fa50e1a07e1850417eb96fa1a3e"
+hash = "9004d59a56bc6a2595ae1adb48f9d29c9a53105cb73f6a7eeef2010dcb21b4bb"
 
 [[files]]
 file = "config/explorerscompass.json"
@@ -8994,7 +8986,7 @@ hash = "3c9e39e4d6a36db5d84e4b1eae822eb54840418fc5dfcdda972443c3e49075f9"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "afc6db47200d239848a38bece258ef78709a2e461b268b3d914939a3ad75a613"
+hash = "df0e9fb71e18b587e4fe19269e8e62b90a29fc6c816644ae1517a0798af58b95"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -9302,11 +9294,11 @@ hash = "bf67fd19cfc54216c1fe293107452227e0631736ae8d073e037992bc9dfdfbc5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gym_battling.snbt"
-hash = "98658fc2b5b2b298ce40fa4b3f87e93c06307bf0978c83bb3a6307372d28a41b"
+hash = "6afc452923a0cae4eb505d9f2d53f0ef98ae6f55f98a15f62058190fa9208e4c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mega.snbt"
-hash = "69fd41a7c1cdef4e3167405b98282e772becc47de4482a8193ee77791eb90c4a"
+hash = "23e6ef18b9b85e6c6effb32caa1328b93e7ab565c97bffb1a91311b322834824"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/pok_rods.snbt"
@@ -10090,7 +10082,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "3a7cfcfd3eceda3d478746eb4b684e77ec078df85a1bb89003488480cb69963e"
+hash = "5cdc9f0b0b5c5dff6b78983102ba3a70d90a8aa833cf0d7acdf5eca19a866093"
 
 [[files]]
 file = "config/ixeris.toml"
@@ -10546,7 +10538,7 @@ hash = "4b235f857e98840111f1fbb7f28996ff057b2f6e445aae34e377f8ce33a4a9f5"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "eaed233c45255ddb9782fbc27fef88acfc421d3c04c5109b2cc5a02331760220"
+hash = "6236690e93f5250c70d2948a0f2f7db63d4b71f648b43a3ec27aa0652930da4c"
 
 [[files]]
 file = "config/palladium_config.json"
@@ -11042,7 +11034,7 @@ hash = "f444999dd9a66b3fa806be94421bb7fe82fd898f91f3bf29a4aaab4e8f5cd95f"
 
 [[files]]
 file = "config/structurecredits-config.json"
-hash = "5f2478b6650a534a71721e12ba16c5eb0bf653f6cb3fdb53cc9387d92b3582c7"
+hash = "a4a2caf7be91ce3c982b5c5e95ab8cd606d66f3a6d4b92623c73213377222a04"
 
 [[files]]
 file = "config/structureessentials.json"
@@ -11050,27 +11042,27 @@ hash = "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
 
 [[files]]
 file = "config/structurify.json"
-hash = "bec0d978be047a9e8533fadec4167fa7d6c6f1ba8dbca4e8212e1bdbbcab0e22"
+hash = "4c13624af2cc02a4cc36c0ab7c64bc4dc25753321ca14246de88f558b1d1cd22"
 
 [[files]]
-file = "config/structurify/structurify_backup_2026-02-14_02-37-37.json"
-hash = "12fb62443546e9fef572b3c0e2e59f3e6164d434c510c7f7e1f45f223f8c1d83"
+file = "config/structurify/structurify_backup_2026-02-22_02-04-39.json"
+hash = "1d90fce9d6bc4a1098310c2b3f1e3d8b753790974b18e7fd26d73659f87ee87f"
 
 [[files]]
-file = "config/structurify/structurify_backup_2026-02-14_02-42-32.json"
-hash = "7e73375f392ed13b543ecb1c773f55b1fbff5ece1c979a3efc2707ec4fc09f78"
+file = "config/structurify/structurify_backup_2026-02-22_02-04-48.json"
+hash = "b00de2d2a66d53fba3c11ef4d2e79db78505c5d441d98392ae357a915f47bfdb"
 
 [[files]]
-file = "config/structurify/structurify_backup_2026-02-14_02-42-46.json"
-hash = "57bb1551223fabfdc64b6d5d319c967ec4523cbd9834465f5518cd316569714d"
+file = "config/structurify/structurify_backup_2026-02-22_02-04-59.json"
+hash = "be9a48a4252b51cca018fcf240c80daef41427455066662e734e7436b0b23301"
 
 [[files]]
-file = "config/structurify/structurify_backup_2026-02-14_02-43-00.json"
-hash = "2273eeae7ad2c8442e2724427a70df6f64230ef42167f35606173ac68c57ae20"
+file = "config/structurify/structurify_backup_2026-02-22_02-05-09.json"
+hash = "37802cee5b968a80718d6a0eee9d62b98f5845de35101d3c1a6bdf8605c6aa59"
 
 [[files]]
-file = "config/structurify/structurify_backup_2026-02-14_02-43-22.json"
-hash = "e1d46b3423a570c135f2c6ae0bb33dd0eefee4a9f92aff60a84fa01c878da8d6"
+file = "config/structurify/structurify_backup_2026-02-22_02-05-15.json"
+hash = "8c9d53b0e06dffb2bb32ce331dc4a247c5f52ca566b1652f019f764092159574"
 
 [[files]]
 file = "config/super_resolution/config.toml"
@@ -12917,8 +12909,8 @@ file = "mods/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar"
 hash = "5d8690980ecc79b5f33005dd274d148d0b9b7713ff5e8223c7011aa8bb08401a"
 
 [[files]]
-file = "mods/CobbleFurnies-fabric-1.0.jar"
-hash = "8d96608dc90c0c7d933ed0c1fa4159a30580edf550cc8c8ea2b42bfbde7bfd81"
+file = "mods/CobbleFurnies-fabric-1.1.jar"
+hash = "b112c5a35705253b6e98ff4bd7a4e44f0cb2876205d1ba0ca282ab44a36edb78"
 
 [[files]]
 file = "mods/CobbleTypesMaster-2.0.0.jar"
@@ -12993,8 +12985,8 @@ file = "mods/Incendium_1.21.x_v5.4.4.jar"
 hash = "285a4f69fe2391f2175f7fc9316d727a39c79bdd214923c59284d569bce656f4"
 
 [[files]]
-file = "mods/Ixeris-4.0.1+1.21.1-fabric.jar"
-hash = "af739f909b289b901759130f1ec1842fd02ad666a50d9d28febdd7fcd791ea59"
+file = "mods/Ixeris-4.0.2+1.21.1-fabric.jar"
+hash = "4fa65d0be0f9cf5966fa370c7a2a09bf0bbd933351174f46329ecda4ccb00432"
 
 [[files]]
 file = "mods/Jade-1.21.1-Fabric-15.10.5.jar"
@@ -13499,8 +13491,8 @@ hash = "900bb3c60f4d94fc1af4c76b034469706d34264fab64e4a45ff53fcbee66eef4"
 metafile = true
 
 [[files]]
-file = "mods/cobblemonraiddens-fabric-0.7.5+1.21.1.jar"
-hash = "36fc40195d32cba42e8deb4c6f112ed0958b126f4a06aa17ec0c8ac5f1962673"
+file = "mods/cobblemonraiddens-fabric-0.7.6+1.21.1.jar"
+hash = "95351ee552f2704f7b803a79e8533481b644ce8b5c76ede66532e8af5090e7e0"
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
@@ -13759,8 +13751,8 @@ file = "mods/ferritecore-7.0.3-fabric.jar"
 hash = "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2"
 
 [[files]]
-file = "mods/fireworkcapsules-fabric-2.0.0+1.21.1.jar"
-hash = "1b695fecc52ded409d97b9671c8d609b8463c13c3dc67bb3755da08e5b0b65f6"
+file = "mods/fireworkcapsules-fabric-2.1.0+1.21.1.jar"
+hash = "ac212b842e0e9c4ec36de7eced99a7b71a87f0b3d8ad56796dfcc35b54546478"
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
@@ -13809,6 +13801,10 @@ metafile = true
 [[files]]
 file = "mods/gpumemleakfix-fabric-1.21-1.8.jar"
 hash = "c7b1abe0577f4e02dde9924e6f411d09b2ea5dd8c8f4ef7ba2659d6dc8d55f4b"
+
+[[files]]
+file = "mods/gravestones-1.2.10+1.21+A.jar"
+hash = "b1f2210761e188aac9eca883fdb3d20f88228a51bb45419a997e620006db4d33"
 
 [[files]]
 file = "mods/handcrafted-fabric-1.21.1-4.0.3.jar"
@@ -14107,8 +14103,8 @@ hash = "320a2e1eec379af21e280b2ab039b7e059aa5571101b6862ec0e30d19cf205f5"
 metafile = true
 
 [[files]]
-file = "mods/moonlight-1.21-2.29.16-fabric.jar"
-hash = "43dde15af961ae940e66d5cd6d9dfe98849ae058845307c5e48c3fd70026dca5"
+file = "mods/moonlight-1.21-2.29.17-fabric.jar"
+hash = "dcd0473b577ac073430da960a432ff133d3ea5cf9a027c48a939cf62c7761d69"
 
 [[files]]
 file = "mods/moonlight.pw.toml"
@@ -14456,6 +14452,10 @@ hash = "0a6179657082b15117e18fbc80fd60538dc91024a63006e843cb5dbf1991bcbe"
 metafile = true
 
 [[files]]
+file = "mods/soulbound-gravestones-2.0.2+1.21.1.jar"
+hash = "29d11c4e8759917faee962e0303d9d6d78f2f40836e0642ca99dc531c6337d0f"
+
+[[files]]
 file = "mods/spark-1.10.109-fabric.jar"
 hash = "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
 
@@ -14691,7 +14691,7 @@ hash = "0e9469a3e0d1235e88c660cbd8239c703626312e38a546ec5616d48a0b56668f"
 
 [[files]]
 file = "options.txt"
-hash = "60e3b637878534e0c6a3ec8d21d0e7fda781a9f6bb2ce1446999fbc870b01684"
+hash = "358f81f8c031a5a088a65c3743c1f3b1f4ecbe5df643d81b5ae0701b92e38dd8"
 
 [[files]]
 file = "shaderpacks/BSL_v10.0.txt"

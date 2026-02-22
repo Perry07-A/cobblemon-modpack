@@ -116,6 +116,15 @@
     "cobblemonextrastructures:sea_mauville",
     "cobblemon:fossils/prehistoric_oak_tree",
     "aiostructures:graveyard",
-    "aiostructures:well"
+    "aiostructures:well",
+    "cobblemon:ruins/toppled_pillars_ruins",
+    "cobbleverse:fiammetta",
+    "terralith:rubble_forest",
+    "cobblemon:fossils/prehistoric_birch_tree",
+    "rad_gyms:gym_entrance_ghost",
+    "cobblemonextrastructures:berry_house",
+    "custom_structures:shaymin_gazebo",
+    "aiostructures:piglin_graveyard",
+    "repurposed_structures:ruins_nether"
   ]
 }

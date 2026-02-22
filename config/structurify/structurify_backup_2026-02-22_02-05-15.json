@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.17",
-  "config_datetime": "2026-02-14_02-43-00",
+  "config_datetime": "2026-02-22_02-05-09",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": false,
@@ -74,6 +74,26 @@
       "terrain_adaptation": "beard_thin"
     },
     {
+      "name": "cobbleverse:ash",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_plains"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:bianca",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_glacial"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
       "name": "cobbleverse:brock",
       "is_disabled": false,
       "whitelisted_biomes": [
@@ -95,14 +115,158 @@
       "terrain_adaptation": "beard_thin"
     },
     {
+      "name": "cobbleverse:corrado",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_shrubland"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:crown_cemetery",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_taiga"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:dyna_tree",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_floral"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:erika",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_floral"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:eterna_building",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_arid"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:fannie",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_floral"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
       "name": "cobbleverse:ferruccio",
       "is_disabled": false,
       "whitelisted_biomes": [
+        "#cobblemon:is_volcanic",
         "terralith:volcanic_peaks"
       ],
       "blacklisted_biomes": [
         "terralith:volcanic_crater"
       ],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:fiammetta",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_forest"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:furio",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_desert"
+      ],
+      "blacklisted_biomes": [
+        "minecraft:desert"
+      ],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:gardenia",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_floral"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:hoenn_league",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "regions_unexplored:prairie",
+        "biomeswevegone:prairie"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:jasmine",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_taiga"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:koga",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_swamp"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:ltsurge",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_savanna"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:marzia",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_desert"
+      ],
+      "blacklisted_biomes": [],
       "step": "surface_structures",
       "terrain_adaptation": "beard_thin"
     },
@@ -121,14 +285,103 @@
       "terrain_adaptation": "beard_thin"
     },
     {
+      "name": "cobbleverse:pedro",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_volcanic"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:petra",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_mountain"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:raffaello",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_jungle"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:rocket_radio_tower",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_savanna"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
       "name": "cobbleverse:rudi",
       "is_disabled": false,
       "whitelisted_biomes": [
-        "regions_unexplored:chalk_cliffs"
+        "#cobblemon:is_hills"
       ],
-      "blacklisted_biomes": [
-        "terralith:yosemite_cliffs"
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:sabrina",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#c:is_dark_forest"
       ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:team_galactic_hq",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "regions_unexplored:prairie",
+        "biomeswevegone:prairie"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:valerio",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_hills"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:walter",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_arid"
+      ],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "cobbleverse:wind_plant",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "#cobblemon:is_floral"
+      ],
+      "blacklisted_biomes": [],
       "step": "surface_structures",
       "terrain_adaptation": "beard_thin"
     },
@@ -287,20 +540,6 @@
       "blacklisted_biomes": [],
       "step": "underground_structures",
       "terrain_adaptation": "beard_box"
-    },
-    {
-      "name": "genomons:megalo_tower",
-      "is_disabled": false,
-      "whitelisted_biomes": [
-        "#minecraft:is_end",
-        "#cobblemon:is_end",
-        "#c:is_end"
-      ],
-      "blacklisted_biomes": [
-        "minecraft:end_highlands"
-      ],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin"
     },
     {
       "name": "legendarymonuments:eternatus_cocoon",

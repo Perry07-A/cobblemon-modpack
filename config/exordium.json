@@ -62,8 +62,8 @@
     "forceUpdates": false
   },
   "xaerosMinimapSettings": {
-    "enabled": false,
-    "maxFps": 60,
+    "enabled": true,
+    "maxFps": 20,
     "forceBlend": true,
     "forceUpdates": false
   },
